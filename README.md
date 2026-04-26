@@ -1,1 +1,1 @@
-# Week-2--Exercise-Individual---Data-Quality-Audit
+# Week-2--Exercise-Individual-Data-Quality-Audit
